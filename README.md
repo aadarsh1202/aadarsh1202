@@ -17,6 +17,6 @@
 ### Connect with me :smile:
 
  <a href="https://discordapp.com/users/Scar_12/">
-<img src="https://camo.githubusercontent.com/ebafeb8a236c07b9dda4c9b6288e533fed2d5c69/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667" width="21px"></a>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/91_Discord_logo_logos-512.png" width="21px"></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=aadarsh.21810861@viit.acin">
-<img src="https://camo.githubusercontent.com/5bf17041186bbc591a286709593ee76baf2e4711/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width="21px"></a>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/147_Gmail_logo_logos-512.png" width="21px"></a>
