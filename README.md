@@ -1,4 +1,4 @@
-# Hey Devs :metal:
+# Heyo Devs :metal:
 
 ### I'm Aadarsh, currently a 3rd year CS student at [VIIT](http://www.viit.ac.in/).
 
